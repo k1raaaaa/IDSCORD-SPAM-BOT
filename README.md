@@ -1,4 +1,4 @@
-# DSCORD-SPAM-BOT
+# DiSCORD-SPAM-BOT
 SPAM BOT 
 
 just install this module:
