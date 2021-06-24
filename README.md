@@ -1,14 +1,10 @@
 # DiSCORD-SPAM-BOT
 SPAM BOT 
 
-just install this module:
+for install just click on :
 
 ```
-pip install discord
-
-pip install asyncio
-
-pip install discord.ext
+install.bat
 ```
 
 =============================================================
